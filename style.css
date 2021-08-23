@@ -1,0 +1,24 @@
+.card-img-top{
+    border-radius:90px;
+}
+.card{
+    background-color:lavender;
+   
+}
+.to-do{
+   margin-left: 42px;
+    margin-top: 40px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px gray;
+    margin-bottom: 40px;
+}
+h3{
+    font-family: poppins;
+    font-weight: bolder;
+}
+input, textarea {
+    box-shadow: 3px 3px 3px gray;
+}
+.output{
+box-shadow: 5px 5px 7px gray;
+}
